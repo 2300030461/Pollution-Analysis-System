@@ -26,15 +26,7 @@ This project analyzes pollution caused by land transportation vehicles using Scr
 
 ## Screenshots
 
-### Backlog
-![Backlog](images/backlog.png)
-
-### Board
-![Board](images/board.png)
-
-### Milestones
-![Milestones](images/milestones.png)
-
-### Story
-![Story](images/story.png)
-
+![Backlog](backlog.png)
+![Board](board.png)
+![Milestones](milestone.png)
+![Story](story.png)
