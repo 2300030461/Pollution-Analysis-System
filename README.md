@@ -24,19 +24,17 @@ This project analyzes pollution caused by land transportation vehicles using Scr
 * Phase 2 – Development → Story 3, Story 4
 * Phase 3 – Testing & Deployment → Story 5
 
-**Screenshots**
-**Backlog**
+## Screenshots
 
-![Backlog](images/Backlog.png)
+### Backlog
+![Backlog](images/backlog.png)
 
-**Board**
+### Board
+![Board](images/board.png)
 
-![Board](images/Board.png)
+### Milestones
+![Milestones](images/milestones.png)
 
-**Milestones**
+### Story
+![Story](images/story.png)
 
-![Milestones](images/Milestones.png)
-
-**Story**
-
-![Story](images/Story.png)
